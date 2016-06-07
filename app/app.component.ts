@@ -24,7 +24,7 @@ export class Hero {
        </div>
     </div>
    `,
-   styles:[`
+  styles: [`
   .selected {
     background-color: #CFD8DC !important;
     color: white;
